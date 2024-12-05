@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Işığı Kırarız
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Bu çalışmaların haritalandığı sayfadır.
